@@ -1,7 +1,7 @@
 {
-  "name": "Rose bot",
+  "name": "IzBot by Rose bot",
   "description": "A Telegram Group Management Bot",
-  "logo": "https://telegra.ph/file/49bcd722fe06a425b3673.jpg",
+  "logo": "https://telegra.ph/file/193ce51b1a0686b945ad6.jpg",
   "keywords": ["telethon", "sqlalchemy", "mongodb"],
   "repository": "https://github.com/deshadeeth-thisrana/Rose.git",
   "success_url": "http://missjuliarobot.unaux.com",
